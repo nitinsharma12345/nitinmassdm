@@ -1,1 +1,1 @@
-worker: python universe. python massdm.py
+worker: python massdm.py
